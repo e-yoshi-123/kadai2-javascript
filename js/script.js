@@ -7,6 +7,7 @@ function myCalc() {
       console.log("4で割れる数です。" + i);
     }
   }
+  alert("50回カウントが終わりました。");
 }
 
 myCalc();
